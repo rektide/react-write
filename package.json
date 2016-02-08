@@ -1,0 +1,19 @@
+{
+	"name": "react-write",
+	"version": "1.0.0",
+	"description": "Takes JSX, appendChilds result onto an HTMLElement",
+	"main": "react-write.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/react-write"
+	},
+	"author": "rektide",
+	"license": "X",
+	"dependencies": {
+		"react-dom": "^0.14.7",
+		"reactt": "^1.0.1"
+	}
+}
